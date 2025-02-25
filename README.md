@@ -16,7 +16,7 @@ Software Engineering Day1 Assignment
 
 ## Identify and describe at least three key milestones in the evolution of software engineering.
  The Birth of Software Engineering (1968) – The NATO Conference on Software Engineering
-# Description: Before the late 1960s, software development was seen as an extension of hardware engineering without distinct methodologies. However, the growing complexity of software systems led to frequent failures, delays, and cost overruns, a phenomenon called the "Software Crisis."
+Description: Before the late 1960s, software development was seen as an extension of hardware engineering without distinct methodologies. However, the growing complexity of software systems led to frequent failures, delays, and cost overruns, a phenomenon called the "Software Crisis."
 Impact:
 The 1968 NATO Software Engineering Conference formally introduced the term "software engineering."
 It emphasized structured programming, disciplined design approaches, and documentation.
@@ -24,7 +24,7 @@ Led to the development of formalized methodologies such as the Waterfall Model (
 2. The Rise of Object-Oriented Programming (OOP) – 1980s
 Description: The procedural programming paradigm became difficult to manage for large-scale software projects. The introduction of Object-Oriented Programming (OOP) improved software reusability, maintainability, and modularity.
 Impact:
-# Early OOP languages like Smalltalk (1972), C++ (1985), and later Java (1995) gained popularity.
+Early OOP languages like Smalltalk (1972), C++ (1985), and later Java (1995) gained popularity.
 Encouraged the use of encapsulation, inheritance, and polymorphism to improve software design.
 Became the foundation for modern application development, including GUI-based systems and enterprise software.
 3. The Agile Revolution (2001) – Agile Manifesto
